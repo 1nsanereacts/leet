@@ -9,6 +9,6 @@ var isSubsequence= function(s,t){
     tp++
     
   }
-  return s=== sp.length;
+  return sp=== s.length;
   
 }
